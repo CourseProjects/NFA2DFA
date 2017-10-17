@@ -1,0 +1,12 @@
+Q\E a b A S e_null
+0 s_null s_null s_null s_null 1,4
+1 s_null s_null 2 s_null 6,9
+2 s_null s_null s_null 3 0
+3* s_null s_null s_null s_null s_null
+4 s_null 5 s_null s_null s_null
+5* s_null s_null s_null s_null s_null
+6 s_null s_null s_null 7 0
+7 s_null s_null 8 s_null 6,9
+8* s_null s_null s_null s_null s_null
+9 10 s_null s_null s_null s_null
+10* s_null s_null s_null s_null s_null
